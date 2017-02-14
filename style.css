@@ -1,0 +1,30 @@
+/* add your CSS here */
+div {
+	border: 2px solid black;
+	padding: 10px 10px 10px 10px;
+	width: 310px;
+}
+
+.first {
+	font-style: italic;
+}
+
+li {
+	font-style: italic;
+}
+
+h3 {
+	border: 1px solid black;
+}
+
+.description {
+	border: 1px solid black;
+	width: 290px;
+}
+
+img {
+	width: 300px;
+}
+
+/*updated!!!*/
+/*my works -megan*/   
